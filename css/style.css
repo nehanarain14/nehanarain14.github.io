@@ -9,6 +9,22 @@
 
 }
 
+.space {
+	background-color: #FFFCFC; 
+	height: 5px;
+
+
+
+}
+
+.whole{
+
+	background-color: #5C9BB2;
+	background-image: url(https://images.freecreatives.com/wp-content/uploads/2015/03/top-brick-wall-design-in-brick-wall-wallpaper-2560x1600-more.jpg);
+	background-repeat: repeat-y;
+	background-size: cover;
+}
+
 .header {
  
 	height: 1000px;
