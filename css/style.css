@@ -1,11 +1,10 @@
 	
 .thing {
-	background-color: #222222; 
 	height: 50px;
 	font-family: "PT Sans Narrow", Arial, sans-serif;
 	font-weight: 700;
 	font-size: 50;
-	color: white;
+	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/32/4b/e5/324be5e91096456f7bbecfc5eadae4e6.jpg);
 
 }
 
@@ -13,14 +12,12 @@
 	background-color: #FFFCFC; 
 	height: 5px;
 
-
-
 }
 
 .whole{
 
 	background-color: #5C9BB2;
-	background-image: url(https://images.freecreatives.com/wp-content/uploads/2015/03/top-brick-wall-design-in-brick-wall-wallpaper-2560x1600-more.jpg);
+	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/32/4b/e5/324be5e91096456f7bbecfc5eadae4e6.jpg);
 	background-repeat: repeat-y;
 	background-size: cover;
 }
@@ -48,6 +45,37 @@
 	border-radius: 0;
 	margin: 40px 20px;
 }
+
+.center {
+
+	margin: 0 auto; 
+	width: 400px;
+}
+
+.column-lg-3 {
+
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-bottom: 30px;
+	position: relative;
+  	min-height: 1px;
+	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/32/4b/e5/324be5e91096456f7bbecfc5eadae4e6.jpg);
+
+}
+
+.something {
+	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/32/4b/e5/324be5e91096456f7bbecfc5eadae4e6.jpg);
+
+}
+
+.thingnew {
+	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/32/4b/e5/324be5e91096456f7bbecfc5eadae4e6.jpg);
+
+}
+
+
+
+
 
 
 html {
@@ -1186,6 +1214,7 @@ img {
        -o-transition: all .2s ease-in-out;
           transition: all .2s ease-in-out;
 }
+
 .img-circle {
   border-radius: 50%;
 }
@@ -1657,6 +1686,7 @@ pre code {
 .row {
   margin-right: -15px;
   margin-left: -15px;
+
 }
 .col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
   position: relative;
